@@ -17,12 +17,15 @@ Android libraries that I have published:
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=swapnil1104&repo=PassCodeText)](https://github.com/swapnil1104/PassCodeText)
+
 [![](https://jitpack.io/v/swapnil1104/OtpEditText/month.svg)](https://jitpack.io/#swapnil1104/OtpEditText)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=swapnil1104&repo=CurveGraphView)](https://github.com/swapnil1104/CurveGraphView)
+
 [![](https://jitpack.io/v/swapnil1104/CurveGraphView/month.svg)](https://jitpack.io/#swapnil1104/CurveGraphView)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=swapnil1104&repo=LinearGraphView)](https://github.com/swapnil1104/LinearGraphView)
+
 [![](https://jitpack.io/v/swapnil1104/LinearGraphView/month.svg)](https://jitpack.io/#swapnil1104/LinearGraphView)
 
 #### AndroidAppTranslator
