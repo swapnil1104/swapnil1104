@@ -3,14 +3,19 @@ Opensource Enthusiast | Android Developer | React/Native Developer
 
 - I'm currently working with Flipkart.
 - Professionally developing android apps since 2018, hobbyist android developer since 2015.
+- Several apps published on Google Play store, amassing over 10k downloads cumulatively.
 
 ### Check out all my open source contributions here.
 Android libraries that I have published: 
-#### [PassCodeText](https://github.com/swapnil1104/PassCodeText) 
- [![](https://jitpack.io/v/swapnil1104/OtpEditText/month.svg)](https://jitpack.io/#swapnil1104/OtpEditText)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=PassCodeText)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://jitpack.io/v/swapnil1104/OtpEditText/month.svg)](https://jitpack.io/#swapnil1104/OtpEditText)
 #### [CurveGraphView](https://github.com/swapnil1104/CurveGraphView) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=CurveGraphView)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://jitpack.io/v/swapnil1104/CurveGraphView/month.svg)](https://jitpack.io/#swapnil1104/CurveGraphView)
 #### [LinearGraphView](https://github.com/swapnil1104/LinearGraphView) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=LinearGraphView)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://jitpack.io/v/swapnil1104/LinearGraphView/month.svg)](https://jitpack.io/#swapnil1104/LinearGraphView)
 
 #### AndroidAppTranslator
