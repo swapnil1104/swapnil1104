@@ -5,12 +5,15 @@ Opensource Enthusiast | Android Developer | React/Native Developer
 - Professionally developing android apps since 2018, hobbyist android developer since 2015.
 - Several apps published on Google Play store, amassing over 10k downloads cumulatively.
 
+
 [![Swapnils's github stats](https://github-readme-stats.vercel.app/api?username=swapnil1104&show_icons=true&hide_border=true)](https://github.com/swapnil1104/)
 
 #### [BroooApps Google Play Developer Profile](https://play.google.com/store/apps/dev?id=4790692576534326586)
 - [BUDGETit - Personal Expense Tracker](https://play.google.com/store/apps/details?id=com.broooapps.expensemanager)
 - [Motivational Quotes Daily](https://play.google.com/store/apps/details?id=com.broooapps.quotesapp)
 - [Randomizer](https://play.google.com/store/apps/details?id=me.swapniltiwari.randomnumbergenerator)
+
+[![](https://androidweekly.net/issues/issue-430/badge)](https://androidweekly.net/issues/issue-430)
 
 ### Check out all my open source contributions here.
 Android libraries that I have published: 
