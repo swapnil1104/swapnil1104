@@ -1,5 +1,5 @@
 ### Hi there, welcome to my Github profile
-Opensource Enthusiast | Android Developer | React/Native Developer 
+Android Developer | React/Native Developer 
 
 - I'm currently working with Flipkart.
 - Professionally developing android apps since 2018, hobbyist android developer since 2015.
