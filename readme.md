@@ -33,3 +33,6 @@ Android libraries that I have published:
 
 #### AndroidAppTranslator
 I have also created [www.androidapptranslator.com](http://androidapptranslator.com). You can localize your android app to many worldwide languages using this tool, and increase the user engagement even more!
+
+![Profile visit counter](https://profile-counter.glitch.me/bauripalash/count.svg)
+
