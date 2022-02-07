@@ -1,10 +1,10 @@
 ### Hi there, welcome to my Github profile
-Android Developer | React/Native Developer 
+Android Developer | React/Native Developer | Blockchain enthusiast 
 
-- I'm currently working with Flipkart.
+
+- Currently working [Gojek](https://github.com/gojek) | Ex [Flipkart](https://github.com/flipkart) | Ex [BOX8](https://github.com/Poncho-Box8)
 - Professionally developing android apps since 2018, hobbyist android developer since 2015.
 - Several apps published on Google Play store, amassing over 10k downloads cumulatively.
-
 
 [![Swapnils's github stats](https://github-readme-stats.vercel.app/api?username=swapnil1104&show_icons=true&hide_border=true)](https://github.com/swapnil1104/)
 
